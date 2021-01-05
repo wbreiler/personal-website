@@ -10,6 +10,7 @@ const IndexPage = () => (
     <p><Link to="/404">Go to 404 page</Link></p>
     <p>GitHub: <a href="https://github.com/wbreiler" target="_blank">@wbreiler</a></p>
     <p>GitLab: <a href="https://gitlab.com/wbreiler" target="_blank">@wbreiler</a></p>
+    <p>Twitter: <a href="https://twitter.com/wbreiler" target="_blank">@wbreiler</a></p>
   </div>
 )
 
