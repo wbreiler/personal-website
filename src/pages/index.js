@@ -7,7 +7,9 @@ const IndexPage = () => (
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
     <Link to="/page-2">Go to page 2</Link>
-    <Link to="/404">Go to 404 page</Link>
+    <p><Link to="/404">Go to 404 page</Link></p>
+    <p>GitHub: <a href="https://github.com/wbreiler" target="_blank">@wbreiler</a></p>
+    <p>GitLab: </p>
   </div>
 )
 
