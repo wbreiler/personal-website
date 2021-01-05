@@ -1,5 +1,4 @@
-image: node:6.10.0
-
+image: node:lts-buster
 pages:
   script:
   - npm install
