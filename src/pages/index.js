@@ -140,7 +140,7 @@ const IndexPage = () => (
           <li className="icon solid fa-signal"></li>
           <li className="icon solid fa-cog"></li>
           <li className="icon solid fa-map-marker-alt">Greater Metro-Nashville, TN</li>
-          <li className="icon solid fa-code">Familiar with JavaScript</li>
+          <li className="icon solid fa-code">Familiar with JavaScript, and learning Go</li>
         </ul>
         <p>
           Vehicula ultrices sed ultricies condimentum. Magna sed etiam
@@ -156,15 +156,14 @@ const IndexPage = () => (
       </header>
       <div className="content">
         <p>
-          Integer mollis egestas nam maximus erat id euismod
-          egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.
+         Below are some projects I'm currently working on or have worked on in the past, as well as who they've been for.
         </p>
 
         <section>
           <header>
             <h3>Code for Nashville</h3>
             <p>
-              Code for Nashville is the Code for America bridgade local to the Greater-Metro Nashville area, entirely ran by volunteers. You can find out more about them <a href="https://www.codefornashville.org/#about">here</a>.
+              Some projects I'm working on for Code for Nashville include [], [], and []. You can find out more about them <a href="https://www.codefornashville.org/#about">here</a>.
             </p>
           </header>
           <div className="content">
@@ -191,12 +190,9 @@ const IndexPage = () => (
 
         <section>
           <header>
-            <h3>Nisl consequat</h3>
+            <h3>Nashville Sea Cadets</h3>
             <p>
-              Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-              aliquam sed facilisis ante interdum congue. Integer mollis, nisl
-              amet convallis, porttitor magna ullamcorper, amet mauris. Ut magna
-              finibus nisi nec lacinia ipsum maximus.
+              Nashville Sea Cadets required a website redesign, and the images to the right show the before and after of the redesign. You can see the finished website <a href="" rel="noreferrer">here</a>.
             </p>
           </header>
           <div className="content">
@@ -221,37 +217,6 @@ const IndexPage = () => (
           </div>
         </section>
 
-        <section>
-          <header>
-            <h3>Lorem gravida</h3>
-            <p>
-              Proin aliquam facilisis ante interdum. Sed nulla amet lorem
-              feugiat tempus aenean ornare velit lacus, ac varius sed enim lorem
-              ullamcorper dolore. ac varius enim lorem ullamcorper dolore. Proin
-              aliquam facilisis.
-            </p>
-          </header>
-          <div className="content">
-            <Gallery
-              images={images03.map(
-                ({
-                  id,
-                  source,
-                  thumbnail,
-                  caption,
-                  description,
-                  landscape,
-                }) => ({
-                  source,
-                  thumbnail,
-                  caption,
-                  description,
-                  landscape,
-                })
-              )}
-            />
-          </div>
-        </section>
       </div>
     </section>
     <section>
