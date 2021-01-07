@@ -312,7 +312,7 @@ const IndexPage = () => (
     </section>
 
     <div className="copyright">
-      &copy; William Breiler. All rights reserved. Written in <a href="https://www.gatsbyjs.com">GatsbyJS</a>.
+      &copy; William Breiler. All rights reserved. Written in <a href="https://www.gatsbyjs.com" target="_blank">GatsbyJS</a>. (You can learn more about them <a href="https://gatsbyjs.com/about" target="_blank">here</a>.)
     </div>
   </Layout>
 )
