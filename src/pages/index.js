@@ -164,10 +164,7 @@ const IndexPage = () => (
           <header>
             <h3>Code for Nashville</h3>
             <p>
-              Vehicula ultrices dolor amet ultricies et condimentum. Magna sed
-              etiam consequat, et lorem adipiscing sed dolor sit amet,
-              consectetur amet do eiusmod tempor incididunt ipsum suspendisse
-              ultrices gravida.
+              Code for Nashville is the Code for America bridgade local to the Greater-Metro Nashville area, entirely ran by volunteers. You can find out more about them <a href="https://www.codefornashville.org/#about">here</a>.
             </p>
           </header>
           <div className="content">
@@ -269,7 +266,7 @@ const IndexPage = () => (
           </li>
           <li>
             <h3>Phone</h3>
-            <a href="tel:+16159275521">+1(615)-927-5521</a>
+            <a href="tel:+16159275521">+1(615).927.5521</a>
           </li>
           <li>
             <h3>Address</h3>
@@ -296,6 +293,16 @@ const IndexPage = () => (
               <li>
                 <a href="https://www.twitch.tv/resistfutil" className="icon brands fa-twitch">
                   <span className="label">Twitch</span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.snapchat.com/add/wbreiler8" className="icon brands fa-snapchat-ghost">
+                  <span className="label">Snapchat</span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/will_breiler" className="icon brands fa-instagram">
+                  <span className="label">Instagram</span>
                 </a>
               </li>
             </ul>
