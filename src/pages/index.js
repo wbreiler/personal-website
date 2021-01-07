@@ -156,13 +156,13 @@ const IndexPage = () => (
       </header>
       <div className="content">
         <p>
-          <strong>Integer mollis egestas</strong> nam maximus erat id euismod
+          Integer mollis egestas nam maximus erat id euismod
           egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.
         </p>
 
         <section>
           <header>
-            <h3>Erat aliquam</h3>
+            <h3>Code for Nashville</h3>
             <p>
               Vehicula ultrices dolor amet ultricies et condimentum. Magna sed
               etiam consequat, et lorem adipiscing sed dolor sit amet,
