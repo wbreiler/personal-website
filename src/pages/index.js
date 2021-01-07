@@ -140,7 +140,7 @@ const IndexPage = () => (
           <li className="icon solid fa-signal"></li>
           <li className="icon solid fa-cog"></li>
           <li className="icon solid fa-map-marker-alt">Greater Metro-Nashville, TN</li>
-          <li className="icon solid fa-code"></li>
+          <li className="icon solid fa-code">Familiar with JavaScript</li>
         </ul>
         <p>
           Vehicula ultrices sed ultricies condimentum. Magna sed etiam
@@ -312,7 +312,7 @@ const IndexPage = () => (
     </section>
 
     <div className="copyright">
-      &copy; William Breiler. All rights reserved. Written in <a href="https://www.gatsbyjs.com" target="_blank">GatsbyJS</a>. (You can learn more about them <a href="https://gatsbyjs.com/about" target="_blank">here</a>.)
+      &copy; William Breiler. All rights reserved. Written in <a href="https://www.gatsbyjs.com" target="_blank" rel="noreferrer">GatsbyJS</a>. (You can learn more about them <a href="https://gatsbyjs.com/about" target="_blank" rel="noreferrer">here</a>.)
     </div>
   </Layout>
 )
