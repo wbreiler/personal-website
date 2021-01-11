@@ -1,5 +1,5 @@
 import React from 'react'
-import full01 from '../assets/img/gallery/fulls/01.jpg'
+/* import full01 from '../assets/img/gallery/fulls/01.jpg'
 import full02 from '../assets/img/gallery/fulls/02.jpg'
 import full03 from '../assets/img/gallery/fulls/03.jpg'
 import full04 from '../assets/img/gallery/fulls/04.jpg'
@@ -20,11 +20,11 @@ import thumb08 from '../assets/img/gallery/thumbs/08.jpg'
 import thumb09 from '../assets/img/gallery/thumbs/09.jpg'
 import thumb10 from '../assets/img/gallery/thumbs/10.jpg'
 import pic01 from '../assets/img/pic01.jpg'
-import pic02 from '../assets/img/pic02.jpg'
+import pic02 from '../assets/img/pic02.jpg' */
 import Gallery from '../components/Gallery'
 import Layout from '../components/layout'
 
-const images01 = [
+/* const images01 = [
   {
     id: '1',
     source: full01,
@@ -105,7 +105,7 @@ const images03 = [
     description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
     landscape: true,
   },
-]
+] */
 
 const IndexPage = () => (
   <Layout>
@@ -168,7 +168,7 @@ const IndexPage = () => (
           </header>
           <div className="content">
             <Gallery
-              images={images01.map(
+              /* images={images01.map(
                 ({
                   id,
                   source,
@@ -183,7 +183,7 @@ const IndexPage = () => (
                   description,
                   landscape,
                 })
-              )}
+              )} */
             />
           </div>
         </section>
@@ -197,7 +197,7 @@ const IndexPage = () => (
           </header>
           <div className="content">
             <Gallery
-              images={images02.map(
+              /* images={images02.map(
                 ({
                   id,
                   source,
@@ -212,7 +212,7 @@ const IndexPage = () => (
                   description,
                   landscape,
                 })
-              )}
+              )} */
             />
           </div>
         </section>
