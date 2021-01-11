@@ -192,7 +192,7 @@ const IndexPage = () => (
           <header>
             <h3>Nashville Sea Cadets</h3>
             <p>
-              Nashville Sea Cadets required a website redesign, and the images to the right show the before and after of the redesign. You can see the finished website <a href="" rel="noreferrer">here</a>.
+              Nashville Sea Cadets required a website redesign, and the images to the right show the before and after of the redesign. You can see the finished website <a href="https://example.com" rel="noreferrer">here</a>.
             </p>
           </header>
           <div className="content">
@@ -231,14 +231,14 @@ const IndexPage = () => (
           </li>
           <li>
             <h3>Phone</h3>
-            <a href="tel:+16159275521">+1(615).927.5521</a>
+            <a href="tel:+16153980874">+1(615).398.0874</a>
           </li>
           <li>
             <h3>Address</h3>
             <span>Greater Metro-Nashville, TN</span>
           </li>
           <li>
-            <h3>Elsewhere</h3>
+            <h3>Everywhere Else</h3>
             <ul className="icons">
               <li>
                 <a href="https://www.twitter.com/wbreiler" className="icon brands fa-twitter">
