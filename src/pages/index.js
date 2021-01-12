@@ -126,12 +126,12 @@ const IndexPage = () => (
           I am a student, front-end web developer, and part-time streamer that can
         </p>
         <ul className="feature-icons">
-          <li className="icon solid fa-laptop"></li>
-          <li className="icon solid fa-bolt"></li>
-          <li className="icon solid fa-signal"></li>
-          <li className="icon solid fa-cog"></li>
+          <li className="icon solid fa-laptop">Linux, Windows 10, MacOS</li>
+          {/* <li className="icon solid fa-bolt">.</li>
+          <li className="icon solid fa-signal">.</li> */}
+          <li className="icon solid fa-cog">.</li>
           <li className="icon solid fa-map-marker-alt">Greater Metro-Nashville, TN</li>
-          <li className="icon solid fa-code">Familiar with JavaScript, and learning Go</li>
+          <li className="icon solid fa-code">Familiar with JavaScript, learning Go</li>
         </ul>
       </div>
     </section>
