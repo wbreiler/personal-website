@@ -147,7 +147,7 @@ const IndexPage = () => (
           <header>
             <h3>Code for Nashville</h3>
             <p>
-              Some projects I'm working on for Code for Nashville include [], [], and []. You can find out more about them <a href="https://www.codefornashville.org/#about">here</a>.
+              Some projects I'm working on for Code for Nashville include [], [], and []. You can find out more about them <a href="https://www.codefornashville.org/#about" target="_blank" rel="noreferrer">here</a>.
             </p>
           </header>
           <div className="content">
@@ -175,7 +175,7 @@ const IndexPage = () => (
           <header>
             <h3>Nashville Sea Cadets</h3>
             <p>
-              Nashville Sea Cadets required a website redesign, and the images to the right show the before and after of the redesign. You can see the finished website <a href="https://example.com" rel="noreferrer">here</a>.
+              Nashville Sea Cadets required a website redesign, and the images to the right show the before and after of the redesign. You can see the finished website <a href="https://example.com" target="_blank" rel="noreferrer">here</a>.
             </p>
           </header>
           <div className="content">
@@ -223,37 +223,37 @@ const IndexPage = () => (
             <h3>Everywhere Else</h3>
             <ul className="icons">
               <li>
-                <a href="https://www.twitter.com/wbreiler" className="icon brands fa-twitter">
+                <a href="https://www.twitter.com/wbreiler" target="_blank" rel="noreferrer" className="icon brands fa-twitter">
                   <span className="label">Twitter</span>
                 </a>
               </li>
               <li>
-                <a href="https://www.github.com/wbreiler" className="icon brands fa-github">
+                <a href="https://www.github.com/wbreiler" target="_blank" rel="noreferrer" className="icon brands fa-github">
                   <span className="label">GitHub</span>
                 </a>
               </li>
               <li>
-                <a href="https://www.gitlab.com/wbreiler" className="icon brands fa-gitlab">
+                <a href="https://www.gitlab.com/wbreiler" target="_blank" rel="noreferrer" className="icon brands fa-gitlab">
                   <span className="label">GitLab</span>
                 </a>
               </li>
               <li>
-                <a href="https://www.twitch.tv/resistfutil" className="icon brands fa-twitch">
+                <a href="https://www.twitch.tv/resistfutil" target="_blank" rel="noreferrer" className="icon brands fa-twitch">
                   <span className="label">Twitch</span>
                 </a>
               </li>
               <li>
-                <a href="https://www.snapchat.com/add/wbreiler8" className="icon brands fa-snapchat-ghost">
+                <a href="https://www.snapchat.com/add/wbreiler8" target="_blank" rel="noreferrer" className="icon brands fa-snapchat-ghost">
                   <span className="label">Snapchat</span>
                 </a>
               </li>
               <li>
-                <a href="https://www.instagram.com/will_breiler" className="icon brands fa-instagram">
+                <a href="https://www.instagram.com/will_breiler" target="_blank" rel="noreferrer" className="icon brands fa-instagram">
                   <span className="label">Instagram</span>
                 </a>
               </li>
               <li>
-                <a href="https://t.me/wbreiler" className="icon brands fa-telegram-plane">
+                <a href="https://t.me/wbreiler" target="_blank" rel="noreferrer" className="icon brands fa-telegram-plane">
                   <span className="label">Telegram</span>
                 </a>
               </li>
