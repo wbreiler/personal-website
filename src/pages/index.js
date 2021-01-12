@@ -115,13 +115,6 @@ const IndexPage = () => (
         <p>
           Student, Front-End Web Developer, Streamer
         </p>
-        <ul className="actions">
-          <li>
-            <a href="#first" className="arrow scrolly">
-              <span className="label">Next</span>
-            </a>
-          </li>
-        </ul>
       </header>
     </section>
     <section>
@@ -130,9 +123,7 @@ const IndexPage = () => (
       </header>
       <div className="content">
         <p>
-          <strong>Etiam tristique libero</strong> eu nibh porttitor amet
-          fermentum. Nullam venenatis erat id vehicula ultrices sed ultricies
-          condimentum.
+          I am a student, front-end web developer, and part-time streamer that can
         </p>
         <ul className="feature-icons">
           <li className="icon solid fa-laptop"></li>
@@ -142,11 +133,6 @@ const IndexPage = () => (
           <li className="icon solid fa-map-marker-alt">Greater Metro-Nashville, TN</li>
           <li className="icon solid fa-code">Familiar with JavaScript, and learning Go</li>
         </ul>
-        <p>
-          Vehicula ultrices sed ultricies condimentum. Magna sed etiam
-          consequat, et lorem adipiscing sed nulla. Volutpat nisl et tempus et
-          dolor libero, feugiat magna tempus, sed et lorem adipiscing.
-        </p>
       </div>
     </section>
 
