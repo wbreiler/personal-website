@@ -135,7 +135,6 @@ const IndexPage = () => (
         </ul>
       </div>
     </section>
-
     <section>
       <header>
         <h2>Past and Current Projects</h2>
@@ -144,7 +143,6 @@ const IndexPage = () => (
         <p>
          Below are some projects I'm currently working on or have worked on in the past, as well as who they've been for.
         </p>
-
         <section>
           <header>
             <h3>Code for Nashville</h3>
@@ -173,7 +171,6 @@ const IndexPage = () => (
             />
           </div>
         </section>
-
         <section>
           <header>
             <h3>Nashville Sea Cadets</h3>
@@ -260,7 +257,6 @@ const IndexPage = () => (
         </ul>
       </footer>
     </section>
-
     <div className="copyright">
       &copy; William Breiler. All rights reserved. Written in <a href="https://www.gatsbyjs.com" target="_blank" rel="noreferrer">GatsbyJS</a>. (You can learn more about them <a href="https://gatsbyjs.com/about" target="_blank" rel="noreferrer">here</a>.)
     </div>
