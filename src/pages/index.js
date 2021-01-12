@@ -252,13 +252,18 @@ const IndexPage = () => (
                   <span className="label">Instagram</span>
                 </a>
               </li>
+              <li>
+                <a href="https://t.me/wbreiler" className="icon brands fa-telegram-plane">
+                  <span className="label">Telegram</span>
+                </a>
+              </li>
             </ul>
           </li>
         </ul>
       </footer>
     </section>
     <div className="copyright">
-      &copy; William Breiler. All rights reserved. Written in <a href="https://www.gatsbyjs.com" target="_blank" rel="noreferrer">GatsbyJS</a>. (You can learn more about them <a href="https://gatsbyjs.com/about" target="_blank" rel="noreferrer">here</a>.)
+      &copy; William Breiler. All rights reserved. Written in <a href="https://www.gatsbyjs.com" target="_blank" rel="noreferrer">GatsbyJS</a>. (You can learn more about them <a href="https://gatsbyjs.com/about" target="_blank" rel="noreferrer">here</a>.) Theme by <a href="https://html5up.net/" rel="noreferrer">HTML5 UP</a>
     </div>
   </Layout>
 )
