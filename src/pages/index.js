@@ -123,7 +123,7 @@ const IndexPage = () => (
       </header>
       <div className="content">
         {/* <p>
-          I am a student, front-end web developer, and part-time streamer that's familiar with GatsbyJS.
+          I am a student, front-end web developer, and part-time streamer that's familiar with GatsbyJS. Remember to wear a mask, we're still in a pandemic!
         </p> */}
         <ul className="feature-icons">
           <li className="icon solid fa-laptop">Unix, Windows 10</li>
