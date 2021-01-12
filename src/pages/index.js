@@ -126,7 +126,7 @@ const IndexPage = () => (
           I am a student, front-end web developer, and part-time streamer that's familiar with GatsbyJS. Remember to wear a mask, we're still in a pandemic!
         </p> */}
         <ul className="feature-icons">
-          <li className="icon solid fa-laptop">Unix, Windows 10</li>
+          <li className="icon solid fa-laptop-code">Unix, Windows 10</li>
           {/* <li className="icon solid fa-bolt">.</li>
           <li className="icon solid fa-signal">.</li> */}
           <li className="icon solid fa-cog">.</li>
