@@ -202,7 +202,6 @@ const IndexPage = () => (
             />
           </div>
         </section>
-
       </div>
     </section>
     <section>
