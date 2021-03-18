@@ -2,8 +2,8 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
+  title: 'Will | IT Student', // e.g: 'Name | Developer'
+  lang: 'en', // e.g: en, es, fr, jp
   description: '', // e.g: Welcome to my website
 };
 
@@ -11,14 +11,15 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Will',
-  subtitle: 'You might know me online as Resist, or just plain Will',
+  subtitle: 'Student, Front-End Web Developer, Streamer',
   cta: 'Know more',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
+  paragraphOne:
+    "I am a student, front-end web developer, and part-time streamer that's familiar with GatsbyJS. Remember to wear a mask, we're still in a pandemic! 😷",
   paragraphTwo: '',
   paragraphThree: '',
   resume: '', // if no resume, the button will not show up
@@ -72,17 +73,27 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'codepen',
+      name: 'twitch',
       url: '',
     },
     {
       id: nanoid(),
-      name: 'linkedin',
+      name: 'gitlab',
       url: '',
     },
     {
       id: nanoid(),
       name: 'github',
+      url: '',
+    },
+    {
+      id: nanoid(),
+      name: 'snapchat',
+      url: '',
+    },
+    {
+      id: nanoid(),
+      name: 'instagram',
       url: '',
     },
   ],
