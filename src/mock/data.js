@@ -1,13 +1,13 @@
 import { nanoid } from 'nanoid';
 
-// HEAD DATA
+// Head Data
 export const headData = {
   title: 'Will | IT Student', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
   description: '', // e.g: Welcome to my website
 };
 
-// HERO DATA
+// Hero Data
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Will',
@@ -15,17 +15,17 @@ export const heroData = {
   cta: 'Know more',
 };
 
-// ABOUT DATA
+// About Data
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    "I am a student, front-end web developer, and part-time streamer that's familiar with GatsbyJS. Remember to wear a mask, we're still in a pandemic! 😷",
+    "I'm a student, front-end web developer, and part-time streamer that's familiar with GatsbyJS. Remember to wear a mask, we're still in a pandemic! 😷",
   paragraphTwo: '',
   paragraphThree: '',
   resume: '', // if no resume, the button will not show up
 };
 
-// PROJECTS DATA
+/* Projects Data */
 export const projectsData = [
   {
     id: nanoid(),
@@ -56,14 +56,14 @@ export const projectsData = [
   },
 ];
 
-// CONTACT DATA
+// Contact Data
 export const contactData = {
   cta: '',
   btn: '',
   email: 'will.breiler@gmail.com',
 };
 
-// FOOTER DATA
+// Footer Data
 export const footerData = {
   networks: [
     {
