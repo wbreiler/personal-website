@@ -60,7 +60,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'will.breiler@gmail.com',
 };
 
 // FOOTER DATA
@@ -69,32 +69,27 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
+      url: 'https://www.twitter.com/wbreiler',
     },
     {
       id: nanoid(),
       name: 'twitch',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'gitlab',
-      url: '',
+      url: 'https://www.twitch.tv/resistfutil',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://www.github.com/wbreiler',
     },
     {
       id: nanoid(),
       name: 'snapchat',
-      url: '',
+      url: 'https://www.snapchat.com/add/wbreiler8',
     },
     {
       id: nanoid(),
       name: 'instagram',
-      url: '',
+      url: 'https://www.instagram.com/will_breiler',
     },
   ],
 };
