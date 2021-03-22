@@ -29,11 +29,11 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'RasenCards.jpg',
+    title: 'RasenCards',
     info: '',
     info2: '',
-    url: '',
+    url: 'https://rasencards.myshopify.com',
     repo: '', // if no repo, the button will not show up
   },
   {
