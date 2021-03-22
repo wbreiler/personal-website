@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Will',
-  subtitle: 'Student, Front-End Web Developer, Streamer',
+  subtitle: 'Student, Web Developer, Streamer',
   cta: 'Know more',
 };
 
@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    "I'm a student, front-end web developer, and part-time streamer that's familiar with GatsbyJS. Remember to wear a mask, we're still in a pandemic! 😷",
+    "I'm a student, web developer, and part-time streamer that's familiar with JavaScript and Shopify. I'm currently learning Python. Remember to wear a mask, we're still in a pandemic! 😷",
   paragraphTwo: '',
   paragraphThree: '',
   resume: '', // if no resume, the button will not show up
