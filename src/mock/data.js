@@ -31,7 +31,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'RasenCards.jpg',
     title: 'RasenCards',
-    info: '',
+    info: 'RasenCards is a ',
     info2: '',
     url: 'https://rasencards.myshopify.com',
     repo: '', // if no repo, the button will not show up
